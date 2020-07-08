@@ -1,3 +1,7 @@
 hello
 these are other changes
+<<<<<<< HEAD
 nowwwwwwwwwwwwww
+=======
+thennnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>>>>>>> e3750bea8805bc65b1c95e38eb24d7727c2666c4
